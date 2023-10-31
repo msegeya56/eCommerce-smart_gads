@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/config"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/di"
+	"github.com/msegeya56/eCommerce-smart_cads/pkg/config"
+	"github.com/msegeya56/eCommerce-smart_cads/pkg/di"
 )
 
 func main() {

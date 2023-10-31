@@ -8,9 +8,9 @@ import (
 	context "context"
 	reflect "reflect"
 
-	domain "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/domain"
-	request "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/request"
-	response "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/response"
+	domain "github.com/msegeya56/eCommerce-smart_gads/pkg/domain"
+	request "github.com/msegeya56/eCommerce-smart_gads/pkg/utils/request"
+	response "github.com/msegeya56/eCommerce-smart_gads/pkg/utils/response"
 	gomock "github.com/golang/mock/gomock"
 )
 

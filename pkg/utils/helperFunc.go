@@ -11,8 +11,8 @@ import (
 	"math/big"
 	"strconv"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/config"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/request"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/config"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/request"
 	"github.com/gin-gonic/gin"
 	razorpay "github.com/razorpay/razorpay-go"
 )

@@ -3,8 +3,8 @@ package interfaces
 import (
 	"context"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/request"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/response"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/request"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/response"
 )
 
 type OrderService interface {

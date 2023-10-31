@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/domain"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/repository/interfaces"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/request"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/response"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/domain"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/repository/interfaces"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/request"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/response"
 	"gorm.io/gorm"
 )
 

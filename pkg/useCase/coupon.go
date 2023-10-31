@@ -3,10 +3,10 @@ package usecase
 import (
 	"context"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/domain"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/repository/interfaces"
-	service "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/useCase/interfaces"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/request"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/domain"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/repository/interfaces"
+	service "github.com/msegeya56/eCommerce-smart_gads/pkg/useCase/interfaces"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/request"
 )
 
 type couponUseCase struct {

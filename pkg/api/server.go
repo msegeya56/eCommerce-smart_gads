@@ -1,10 +1,10 @@
 package http
 
 import (
-	_ "github.com/Noush-012/Project-eCommerce-smart_gads/cmd/api/docs"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/handler"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/handler/interfaces"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/routes"
+	_ "github.com/msegeya56/eCommecre-smart_cads/cmd/api/docs"
+	"github.com/msegeya56/eCommecre-smart_cads/pkg/api/handler"
+	"github.com/msegeya56/eCommecre-smart_cads/pkg/api/handler/interfaces"
+	"github.com/msegeya56/eCommecre-smart_cads/pkg/api/routes"
 
 	"github.com/gin-gonic/gin"
 	swaggoFiles "github.com/swaggo/files"

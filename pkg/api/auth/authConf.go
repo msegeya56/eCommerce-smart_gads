@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/config"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/config"
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt"
 )

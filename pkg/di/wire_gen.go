@@ -7,12 +7,12 @@
 package di
 
 import (
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/handler"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/config"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/db"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/repository"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/useCase"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/api"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/api/handler"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/config"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/db"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/repository"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/useCase"
 )
 
 // Injectors from wire.go:

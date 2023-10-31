@@ -8,7 +8,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	domain "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/domain"
+	domain "github.com/msegeya56/eCommerce-smart_gads/pkg/domain"
 	gomock "github.com/golang/mock/gomock"
 )
 

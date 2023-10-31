@@ -16,7 +16,7 @@ services:
       - testNetwork
 
   api:
-    build: . 
+    build: .
     image: noush-012/ecommerce-smart_gads
     ports: 
       - 3000:3000

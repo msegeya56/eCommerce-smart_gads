@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/config"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/config"
 	"github.com/twilio/twilio-go"
 	twilioApi "github.com/twilio/twilio-go/rest/verify/v2"
 )

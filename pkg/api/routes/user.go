@@ -1,9 +1,9 @@
 package routes
 
 import (
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/handler"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/handler/interfaces"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/middleware"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/api/handler"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/api/handler/interfaces"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/api/middleware"
 	"github.com/gin-gonic/gin"
 )
 

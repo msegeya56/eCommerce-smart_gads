@@ -1,10 +1,10 @@
 package handler
 
 import (
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/domain"
-	service "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/useCase/interfaces"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/response"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/domain"
+	service "github.com/msegeya56/eCommerce-smart_gads/pkg/useCase/interfaces"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/response"
 	"github.com/gin-gonic/gin"
 )
 

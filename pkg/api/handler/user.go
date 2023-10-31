@@ -4,12 +4,12 @@ import (
 	"errors"
 	"net/http"
 
-	handler "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/handler/interfaces"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/useCase/interfaces"
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils"
-	request "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/request"
+	handler "github.com/msegeya56/eCommerce-smart_gads/pkg/api/handler/interfaces"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/useCase/interfaces"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils"
+	request "github.com/msegeya56/eCommerce-smart_gads/pkg/utils/request"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/utils/response"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/utils/response"
 	"github.com/gin-gonic/gin"
 )
 

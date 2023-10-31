@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/domain"
-	mock "github.com/Noush-012/Project-eCommerce-smart_gads/pkg/mock/repoMock"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/domain"
+	mock "github.com/msegeya56/eCommerce-smart_gads/pkg/mock/repoMock"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 )

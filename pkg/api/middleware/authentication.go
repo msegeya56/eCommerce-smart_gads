@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Noush-012/Project-eCommerce-smart_gads/pkg/api/auth"
+	"github.com/msegeya56/eCommerce-smart_gads/pkg/api/auth"
 	"github.com/gin-gonic/gin"
 )
 
